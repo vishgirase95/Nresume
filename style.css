@@ -1,0 +1,187 @@
+
+body{
+    margin: 0px;
+    text-align: center;
+    
+}
+h1{
+    display: inline;
+    /* font-family: 'Dancing Script', cursive; */
+    font-size: 5.5rem;
+    font-family: 'Sacramento', cursive;
+    margin-bottom: 0px;
+    color: #66BFBF;
+}
+h2{
+    font-family: 'Noto Sans JP', sans-serif;
+    color: #66BFBF;
+    
+
+    
+
+   
+
+    
+
+}
+h3{
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #11999E;
+    
+}
+.name{
+    margin:0px auto 0px auto;
+    display: inline-block;
+    position: absolute;
+    top: 100px;
+    left: 35%;
+    
+
+}
+.profile{
+    margin-top: 50px;
+}
+.skill-row{
+    width: 50%;
+    margin: 80px auto 150px auto;
+    text-align: left;
+    line-height: 2;
+}
+span{
+    text-decoration: underline;
+}
+.c2{
+    position: absolute;
+    left: 200px;
+    top: 160px;
+}
+
+.c1{
+    position: absolute;
+    right: 250px;
+    top: 55px;
+    
+}
+
+.top{
+    
+    width: 100%;
+    height: 100%;
+
+    padding: 5px;
+    margin-right: 0px;
+    background-color:#EAF6F6;
+    text-align: center;
+
+}
+.tagline{
+    font-size: 2.5rem;
+    margin-top: 5px;
+    position: relative;
+    left: 20px;
+    color: #66BFBF;
+    font-weight: normal;
+
+}
+.m{
+    margin-top: 250px;
+}
+.img1{
+
+    height: 250px;
+    width: 250px;
+    border-radius: 100%;
+}
+.intro{
+    width: 25%;
+    margin: auto;
+
+}
+.img2{
+
+    width: 35%;
+    margin-right: 25px;
+    border-radius: 100%;
+    float: left;
+}
+
+.img3{
+    width: 25%;
+
+    border-radius: 100%;
+    margin-left: 25px;
+    float: right;
+    
+}
+
+.footer-link{
+    color:#11999E;
+}
+p{
+    color: #40514E;
+}
+hr{
+    border-style: dotted none none none;
+    border-width: 8px;
+    width: 8%;
+    color: #EAF6F6;
+    margin: 70px auto;
+}
+.btn{
+    
+    padding: 8px;
+    border-radius: 3.5px;
+    background-color:#11999E;
+    color: white;
+    text-decoration: none;
+    
+    
+
+    
+}
+.btn:hover{
+     
+    padding: 5px;
+    border-radius: 2px;
+    background-color:gray;
+    color: white;
+    text-decoration: none;
+    margin: auto;
+}
+.bottom{
+    height: 60px;
+    width: 100%;
+    background-color: #66BFBF;
+    padding: 50px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    right: 35px;
+ 
+    
+
+}
+.copy-right{
+    color: #EAF6F6;
+    margin-top: 50px;
+    padding: 10px;
+    font-size: 0.8rem;
+}
+.footer-link{
+    color: #11999E;
+    text-decoration: none;
+
+    
+    margin: auto 10px ;
+
+    
+}
+.contact-me{
+    line-height: 2;
+
+}
+.get-touch{
+    width: 40%;
+    margin: auto auto 20px auto; 
+}
